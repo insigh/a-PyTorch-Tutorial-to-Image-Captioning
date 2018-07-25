@@ -14,7 +14,7 @@
 7: Deep Reinforcement Learning-based Image Captioning with Embedding Reward.  
 
 
-[a-PyTorch-Tutorial-to-Image-Captioning](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning)  
+[a-PyTorch-Tutorial-to-Image-Captioning](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning) 
 paper: show attend and tell  
 
 [sourcecode for Show, Adapt and Tell](https://github.com/insigh/show-adapt-and-tell)
